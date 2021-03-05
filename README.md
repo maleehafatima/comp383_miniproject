@@ -1,7 +1,10 @@
 # comp383_miniproject
 
 ## Things you need:
+  You need to have Python3 and R installed to use it in the terminal.
   
+  Other softwares required are:
+  - 
   
 ## Using the code:
   When you run the code, it will ask you "What data would you like to run? Enter either 'full' or 'test'"
